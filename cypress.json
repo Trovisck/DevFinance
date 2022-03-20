@@ -1,0 +1,9 @@
+{
+    
+    "testFiles": "**/*.spec.js",
+    "baseUrl": "https://maratona-discover-devfinance.netlify.app/"
+    
+  }
+  
+    
+  
